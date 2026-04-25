@@ -1,4 +1,5 @@
 # Exercício Avaliativo 1
+## LeetCode 492. Diagonal Traverse
 ## Nome: João Pedro da Silva Netto
 ## Data em aula: 24/04/2026 / Data entregue: 25/04/2026
 
